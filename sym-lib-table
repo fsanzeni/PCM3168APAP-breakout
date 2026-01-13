@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCM3168APAP")(type "KiCad")(uri "${KIPRJMOD}/libraries/PCM3168APAP/PCM3168APAP.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LVC2G34DRLR")(type "KiCad")(uri "${KIPRJMOD}/libraries/SN74LVC2G34DRLR/SN74LVC2G34DRLR.kicad_sym")(options "")(descr ""))
+)

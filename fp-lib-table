@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PCM3168APAP")(type "KiCad")(uri "${KIPRJMOD}/libraries/PCM3168APAP")(options "")(descr ""))
+  (lib (name "SN74LVC2G34DRLR")(type "KiCad")(uri "${KIPRJMOD}/libraries/SN74LVC2G34DRLR")(options "")(descr ""))
+  (lib (name "SJ3-35083A-TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/SJ3-35083A-TR")(options "")(descr ""))
+)
