@@ -6244,7 +6244,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:OPA2134")
-		(at 156.21 184.15 0)
+		(at 156.21 240.03 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6254,7 +6254,7 @@
 		(fields_autoplaced yes)
 		(uuid "463b046d-9f15-43a5-816f-ee853086314d")
 		(property "Reference" "U202"
-			(at 156.21 173.99 0)
+			(at 156.21 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6262,7 +6262,7 @@
 			)
 		)
 		(property "Value" "OPA2134"
-			(at 156.21 176.53 0)
+			(at 156.21 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6270,7 +6270,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 156.21 184.15 0)
+			(at 156.21 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6279,7 +6279,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa134.pdf"
-			(at 156.21 184.15 0)
+			(at 156.21 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6288,7 +6288,7 @@
 			)
 		)
 		(property "Description" "Dual SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8"
-			(at 156.21 184.15 0)
+			(at 156.21 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7277,7 +7277,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:OPA2134")
-		(at 156.21 240.03 0)
+		(at 156.21 184.15 0)
 		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
@@ -7287,7 +7287,7 @@
 		(fields_autoplaced yes)
 		(uuid "68ecda1b-ef81-48fb-8f71-8f9d89a2cfe3")
 		(property "Reference" "U202"
-			(at 156.21 229.87 0)
+			(at 156.21 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7295,7 +7295,7 @@
 			)
 		)
 		(property "Value" "OPA2134"
-			(at 156.21 232.41 0)
+			(at 156.21 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7303,7 +7303,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 156.21 240.03 0)
+			(at 156.21 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7312,7 +7312,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa134.pdf"
-			(at 156.21 240.03 0)
+			(at 156.21 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7321,7 +7321,7 @@
 			)
 		)
 		(property "Description" "Dual SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8"
-			(at 156.21 240.03 0)
+			(at 156.21 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10771,7 +10771,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:OPA4134")
-		(at 287.02 125.73 0)
+		(at 287.02 69.85 0)
 		(mirror x)
 		(unit 4)
 		(exclude_from_sim no)
@@ -10781,7 +10781,7 @@
 		(fields_autoplaced yes)
 		(uuid "e925ff16-6366-481a-986e-e6d3b1887d37")
 		(property "Reference" "U201"
-			(at 287.02 115.57 0)
+			(at 287.02 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10789,7 +10789,7 @@
 			)
 		)
 		(property "Value" "OPA4134UA"
-			(at 287.02 118.11 0)
+			(at 287.02 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10797,7 +10797,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 285.75 128.27 0)
+			(at 285.75 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10806,7 +10806,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa134.pdf"
-			(at 288.29 130.81 0)
+			(at 288.29 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10815,7 +10815,7 @@
 			)
 		)
 		(property "Description" "Quad SoundPlus High Performance Audio Operational Amplifiers, SOIC-14"
-			(at 287.02 125.73 0)
+			(at 287.02 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11099,7 +11099,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:OPA4134")
-		(at 287.02 69.85 0)
+		(at 287.02 125.73 0)
 		(mirror x)
 		(unit 3)
 		(exclude_from_sim no)
@@ -11109,7 +11109,7 @@
 		(fields_autoplaced yes)
 		(uuid "eef5499a-3bb6-47ef-8c3d-06f5ad8a81a1")
 		(property "Reference" "U201"
-			(at 287.02 59.69 0)
+			(at 287.02 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11117,7 +11117,7 @@
 			)
 		)
 		(property "Value" "OPA4134UA"
-			(at 287.02 62.23 0)
+			(at 287.02 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11125,7 +11125,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 285.75 72.39 0)
+			(at 285.75 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11134,7 +11134,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa134.pdf"
-			(at 288.29 74.93 0)
+			(at 288.29 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11143,7 +11143,7 @@
 			)
 		)
 		(property "Description" "Quad SoundPlus High Performance Audio Operational Amplifiers, SOIC-14"
-			(at 287.02 69.85 0)
+			(at 287.02 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
