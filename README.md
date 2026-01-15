@@ -1,6 +1,10 @@
 # PCM3168APAP Breakout Board
 
 A breakout board for the Texas Instruments PCM3168APAP audio codec, featuring 6 analog inputs and 8 analog outputs with high-quality buffering and filtering circuitry.
+| PCB Front | PCB Back |
+|-----------|----------|
+| ![](PCM3168APAP-breakout-top.jpg) | ![](PCM3168APAP-breakout-bottom.jpg) |
+
 
 ## Overview
 
