@@ -65,26 +65,6 @@ This evaluation board is based on the TI TIDA-00609 reference design and provide
 - J301-J302: 6-pin analog output headers
 - J401: 2-pin power input
 
-## Pin Configuration
-
-### Power Input (J401)
-1. V_EXT (6.2-18V)
-2. GND
-
-### I²S Interface (J101)
-1. MCLK
-2. LRCK_ADC
-3. BCK_ADC
-4. LRCK_DAC
-5. BCK_DAC
-6. GND
-
-### I²C Interface (J102)
-1. SDA
-2. SCL
-3. +3.3V
-4. GND
-
 ## Usage Notes
 
 - Ensure proper power supply voltage range (6.2V minimum to avoid dropout on regulators) 
@@ -95,11 +75,6 @@ This evaluation board is based on the TI TIDA-00609 reference design and provide
 ## License
 
 [MIT License](./LICENSE)
-
-## Author
-
-Filippo Sanzeni  
-[filipposanzeni.com](https://filipposanzeni.com)
 
 ## Revision History
 
