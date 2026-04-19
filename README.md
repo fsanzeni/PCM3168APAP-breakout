@@ -8,7 +8,7 @@ A breakout board for the Texas Instruments PCM3168APAP audio codec, featuring 6 
 
 ## Overview
 
-This evaluation board is based on the TI TIDA-00609 reference design and provides a complete interface to the PCM3168APAP - a 24-bit, 96kHz/192kHz, 6-in/8-out audio codec. The board includes analog input buffering with anti-aliasing filters, differential-to-single-ended output conversion, and integrated power regulation.
+This evaluation board is based on the [TI TIDA-00609](https://www.ti.com/tool/TIDA-00609) reference design and provides a complete interface to the [PCM3168APAP](https://www.ti.com/product/PCM3168A/part-details/PCM3168APAP) - a 24-bit, 96kHz/192kHz, 6-in/8-out audio codec. The board includes analog input buffering with anti-aliasing filters, differential-to-single-ended output conversion, and integrated power regulation (via LDOs for 5v and 3.3v).
 
 ## Features
 
@@ -22,7 +22,7 @@ This evaluation board is based on the TI TIDA-00609 reference design and provide
 
 #### Inputs (6 channels)
 - 3.5mm TRS jack connectors for each stereo input pair
-- Buffer and anti-aliasing low-pass filter based on OPA4134/OPA2134 op-amps
+- Buffer and anti-aliasing low-pass filter based on [OPA4134](https://www.ti.com/product/OPA4134)/[OPA2134](https://www.ti.com/product/OPA2134) op-amps
 - Configured for 2V RMS input, 0.5x gain, -3dB at 48 kHz 
 - Output: 1V RMS to ADC
 - Common-mode reference voltage (VCOMAD) generation
@@ -38,7 +38,7 @@ This evaluation board is based on the TI TIDA-00609 reference design and provide
 - **I²C** (4-pin header): SDA, SCL, 3.3V, and ground
 - **Digital Input** (4-pin header): DIN2, DIN3, SDIN (DIN1), and ground
 - **Digital Output** (4-pin header): DOUT1, DOUT2, DOUT3, and ground
-- **Reset** (2-pin header): Active-low reset with buffer IC (SN74LVC2G34)
+- **Reset** (2-pin header): Active-low reset with buffer IC ([SN74LVC2G34](https://www.ti.com/product/SN74LVC2G34))
 
 ### Configuration
 - I²C mode (MODE pin tied to GND)
@@ -53,7 +53,7 @@ This evaluation board is based on the TI TIDA-00609 reference design and provide
   - 3.3V output for digital logic
 - Comprehensive decoupling throughout
 
-## Bill of Materials Highlights
+## BOM Highlights
 
 ### Key Components
 - **IC101**: PCM3168APAP (HTQFP-64 package)
@@ -83,4 +83,3 @@ This evaluation board is based on the TI TIDA-00609 reference design and provide
 ## Revision History
 
 - **v0.1** (2026-01-13): Initial release
-
